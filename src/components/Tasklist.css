@@ -1,0 +1,14 @@
+.tasklist {
+    margin-top: 20px;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+}
+
+.task {
+    margin-top: 20px;
+    background: white;
+    width: 480px;
+    padding: 10px;
+    background: #F9C22E;
+}

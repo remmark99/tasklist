@@ -1,0 +1,20 @@
+.form {
+    display: flex;
+    justify-content: center;
+    margin-top: 50px;
+}
+
+.form__label {
+    text-align: center;
+    display: block;
+    font-size: 40px;
+}
+
+.form__input {
+    display: block;
+    border-radius: 10px;
+    border: none;
+    font-size: 40px;
+    text-align: center;
+    width: 500px;
+}
